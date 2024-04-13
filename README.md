@@ -1,6 +1,6 @@
 # React + Vite
 
-# Visit the Site: [https://foodie-web-basic.netlify.app/]
+# Visit the Site: [https://foodie-web-basic.netlify.app]
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
